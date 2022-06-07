@@ -1,0 +1,5 @@
+#exclusion des fichiers html
+*.html
+
+
+/js
